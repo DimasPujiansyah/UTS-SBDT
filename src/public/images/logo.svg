@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="220" height="40" viewBox="0 0 220 40">
-  <rect x="0" y="4" width="32" height="32" rx="8" fill="#2563eb"/>
-  <path d="M9 24 L9 15 L16 10 L23 15 L23 24 L18 24 L18 18 L14 18 L14 24 Z" fill="#ffffff"/>
-  <text x="40" y="26" font-family="Montserrat, sans-serif" font-size="15" font-weight="700" fill="#1e293b">
-    Minimarket Terdistribusi
-  </text>
-</svg>
