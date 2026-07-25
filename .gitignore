@@ -1,0 +1,18 @@
+# Data volume database (Docker) - jangan pernah di-commit
+db/data/
+db/master-replica/data-master/
+db/master-replica/data-replica/
+
+# Sertifikat lokal (jika ada)
+nginx/ssl/
+
+# Environment & credentials aplikasi Laravel
+src/.env
+src/.env.backup
+src/.env.production
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
